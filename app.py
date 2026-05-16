@@ -1,6 +1,6 @@
 import streamlit as st
 import panda as 
-import libreria_funciones.py as lf
+import libreria_funciones as lf
 
 st.title ("PROYECTO PRINCIPAL UCG")
 
