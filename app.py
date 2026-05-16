@@ -1,2 +1,6 @@
 import streamlit as st
-st.title ("PROYECTO UCG")
+
+st.title ("PROYECTO PRINCIPAL UCG")
+
+St.sidebar.title ("Parámetros")
+
